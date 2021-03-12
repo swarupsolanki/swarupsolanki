@@ -2,7 +2,7 @@
 
 ## I'm a Developer, Cyber security researcher, and Author!!
 
-Hi, I'm Swarup! 👋 <br>
+Hi, I'm Svarupkumar Solanki! 👋 <br>
     🔥 18 Year's Old Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>

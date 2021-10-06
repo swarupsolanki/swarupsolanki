@@ -7,6 +7,6 @@ Hi, I'm Svarupkumar Solanki! 👋 <br>
     :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :art: Portfolio: https://swarupsolanki.in <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/swarup110 <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/swarupsolanki <br>
   </samp>
 </p>

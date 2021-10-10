@@ -3,10 +3,11 @@
 <img align="center">
     
  <samp>
-Hi there, I'm Swarup Solanki 👋
-I'm a Developer, Cybersecurity researcher.
+Hi there, I'm Svarupkumar Solanki 👋
+    <br>
+    I'm a Developer, Cybersecurity researcher.
 
-Hi, I'm Svarupkumar Solanki! 👋 <br>
+    <br>
     🔥 18 Year's Old Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>

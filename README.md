@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/swarupsolanki/swarupsolanki.in/main/img/bg-img/sso.png"/>
 <hr></hr>
-<p align="center">
+<img align="center">
     
  <samp>
 ### Hi there, I'm Swarup Solanki 👋

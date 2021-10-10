@@ -6,7 +6,7 @@
     
 Hi there, I'm Swarup Solanki 👋
     
-## I'm a Developer, Cybersecurity researcher.
+# I'm a Developer, Cybersecurity researcher.
 
 Hi, I'm Svarupkumar Solanki! 👋 <br>
     🔥 18 Year's Old Software Developer grinding hard to make something cool  <br>

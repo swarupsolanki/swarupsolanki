@@ -1,6 +1,11 @@
+<img src="https://raw.githubusercontent.com/swarupsolanki/swarupsolanki.in/main/img/bg-img/sso.png"/>
+<hr></hr>
+<p align="center">
+    
+ <samp>
 ### Hi there, I'm Swarup Solanki 👋
-
-## I'm a Developer, Cybersecurity researcher!
+    
+## I'm a Developer, Cybersecurity researcher.
 
 Hi, I'm Svarupkumar Solanki! 👋 <br>
     🔥 18 Year's Old Software Developer grinding hard to make something cool  <br>
@@ -8,5 +13,6 @@ Hi, I'm Svarupkumar Solanki! 👋 <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :art: Portfolio: https://swarupsolanki.in <br>
     :briefcase: LinkedIn: https://linkedin.com/in/swarupsolanki <br>
-  </samp>
+</samp>
+    
 </p>

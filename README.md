@@ -3,7 +3,8 @@
 <img align="center">
     
  <samp>
-### Hi there, I'm Swarup Solanki 👋
+    
+Hi there, I'm Swarup Solanki 👋
     
 ## I'm a Developer, Cybersecurity researcher.
 

@@ -1,4 +1,4 @@
-<img src="https://github.com/swarupsolanki/swarupsolanki/blob/main/src/top-bg.png">
+<img src="https://github.com/swarupsolanki/swarupsolanki/blob/main/src/top-bg-v.2.png">
 <img align="left" src="https://github.com/swarupsolanki/swarupsolanki/blob/main/src/boy-animated.gif" width="165" />
 <p align="" widht="300">I'm Svarupkumar Solanki, a developer and cybersecurity researcher from India. Since 2016 I've been living and breathing web development and creating modern and user friendly interfaces.</p>
 <a  href="https://www.linkedin.com/in/swarupsolanki/"><img src="https://github.com/swarupsolanki/swarupsolanki/blob/main/src/linkedin.png" width="40" /></a> &nbsp; 
